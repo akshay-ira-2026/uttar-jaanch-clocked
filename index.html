@@ -1,0 +1,14 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Uttar Jaanch: forest law answer checker</title><link rel="stylesheet" href="style.css"></head><body>
+<header><h1>Uttar Jaanch · उत्तर जांच</h1><p>Check an exam answer on Indian forest law against the bare act, claim by claim. <span id="count"></span> from IFA, WPA, FCA/Van Adhiniyam, FRA and EPA.</p></header>
+<main>
+<label for="pick">Practice question</label><select id="pick"></select>
+<label for="question">Question</label><textarea id="question" rows="3"></textarea>
+<label for="answer">Your answer</label><textarea id="answer" rows="6" placeholder="Write your answer here"></textarea>
+<button id="sample" class="ghost" type="button" hidden>Try a sample answer with mistakes</button>
+<label for="model">Model answer (optional)</label><textarea id="model" rows="4" placeholder="Paste a topper's or coaching model answer to compare against"></textarea>
+<button id="go" type="button">Check my answer</button><div id="status"></div>
+<section id="result"></section>
+</main>
+<footer>Uses Clocked Rerank, Verify and Compare. Built for the Clocked Build Challenge 2026. Bare-act text from India Code. Not legal advice.</footer>
+<script type="module" src="app.js"></script></body></html>
