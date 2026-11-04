@@ -1,0 +1,146 @@
+[
+{
+"id": "q-fra",
+"question": "Who can claim forest rights under the Forest Rights Act, 2006, and what residence condition applies to other traditional forest dwellers?",
+"model": "Under the Forest Rights Act, 2006, forest dwelling Scheduled Tribes and other traditional forest dwellers can claim forest rights. Other traditional forest dwellers must have primarily resided in and depended on forest land for bona fide livelihood needs for at least three generations prior to 13 December 2005, and a generation means twenty-five years, so 75 years in all. Rights are recognised only for land occupied before 13 December 2005.",
+"sample": "Only Scheduled Tribes can claim forest rights under FRA. Other traditional forest dwellers need 50 years of residence. Claims are decided by the District Collector alone."
+},
+{
+"id": "q-wpa",
+"question": "Can a person hunt a wild animal listed in Schedule I of the Wild Life (Protection) Act, 1972?",
+"model": "No. Section 9 of the Wild Life (Protection) Act, 1972 prohibits hunting of wild animals specified in the Schedules except as provided under sections 11 and 12. Section 11 lets the Chief Wild Life Warden permit hunting of a Schedule I animal that has become dangerous to human life or is so disabled or diseased as to be beyond recovery, by an order in writing stating the reasons. Section 12 allows permits for education, scientific research, scientific management and collection of specimens.",
+"sample": "Yes, a Schedule I animal can be hunted with a permit from the gram sabha. The District Forest Officer can also allow hunting for sport."
+},
+{
+"id": "q-s47",
+"question": "What is the primary role of the Forest Settlement Officer under Section 12 of the Indian Forest Act, 1927, regarding claims to forest resources?",
+"model": "Under Section 12 of the Indian Forest Act, 1927, the Forest Settlement Officer is tasked with evaluating and deciding on claims related to rights of pasture or access to forest produce. Their authority extends to either fully admitting, partially admitting, or outright rejecting such claims. This means the officer must assess the validity of each claim and issue a formal order based on the evidence presented. The decision-making process ensures that rights over forest resources are systematically recorded and legally recognized or denied, depending on the circumstances. The section emphasizes the officer’s discretionary power to handle these claims in a structured manner.",
+"section": "s47"
+},
+{
+"id": "q-s86",
+"question": "What are the specific circumstances under which a forest officer or police officer can seize property under Section 52 of the Indian Forest Act, 1927?",
+"model": "Under Section 52(1) of the Indian Forest Act, 1927, a forest or police officer may seize property—such as forest-produce, tools, boats, carts, or cattle—when there is *reasonable belief* that a forest offense has been committed involving that property. The seizure is not automatic but contingent on suspicion of illegal activity. Additionally, the seized property must be directly linked to the alleged offense, as the section explicitly ties the seizure to the commission of a forest-related crime. The law also allows for the seizure of *all* associated tools or means used in the offense, not just the primary forest-produce. This provision ensures that evidence and instruments of the crime are preserved for legal proceedings.",
+"section": "s86"
+},
+{
+"id": "q-s40",
+"question": "What does Section 5 of the Indian Forest Act, 1927, prohibit regarding land rights after a notification under Section 4 is issued?",
+"model": "Section 5 of the Indian Forest Act, 1927, explicitly prohibits the acquisition of new rights over notified land except through three limited pathways: inheritance (succession), written grants or contracts from the government or its predecessors, or existing vested rights at the time of notification. It also restricts any new clearings—whether for cultivation or other purposes—without adherence to rules established by the State Government. This ensures that post-notification, land use remains tightly controlled to prevent unauthorized encroachments or transfers.",
+"section": "s40"
+},
+{
+"id": "q-s127",
+"question": "What is the official name of the legislation that recognizes forest rights for Scheduled Tribes and other traditional forest dwellers in India, and when was it enacted?",
+"model": "The official name of the legislation is the *Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006*. It was enacted in 2006, as explicitly stated in **Section 1(1)** of the Act. The text does not specify an exact date of enforcement, only that it will come into force on a date to be notified by the Central Government in the *Official Gazette*. This Act applies across India except for the State of Jammu and Kashmir, as mentioned in **Section 1(2)**.",
+"section": "s127"
+},
+{
+"id": "q-s22",
+"question": "What are the key compositional requirements for a Gram Sabha’s Forest Rights Committee as outlined in the 2008 Rules (amended 2012)?",
+"model": "The Forest Rights Committee must include between 10 and 15 members, with at least two-thirds of them being Scheduled Tribes. Additionally, the committee must ensure that no less than one-third of its members are women. If there are no Scheduled Tribes in the area, the one-third gender quota for women remains mandatory. These provisions were explicitly amended in 2012 to strengthen tribal and women’s representation in decision-making processes.",
+"section": "s22"
+},
+{
+"id": "q-s201",
+"question": "What specific behaviors are explicitly prohibited for visitors under Section 38J of the Wild Life (Protection) Act, 1972, when interacting with animals in a zoo?",
+"model": "Section 38J of the Wild Life (Protection) Act, 1972, explicitly prohibits a range of harmful or disruptive behaviors toward animals in zoos. These include teasing, molesting, injuring, or feeding animals—all of which could cause stress or harm. Additionally, the section bans creating disturbances through noise or other means, as well as littering the zoo grounds. The law aims to ensure the welfare and tranquility of animals by preventing any form of interference that could disrupt their environment or well-being.",
+"section": "s201"
+},
+{
+"id": "q-s137",
+"question": "What is the official name of the legislation referred to as the Van Adhiniyam, and when was it originally enacted?",
+"model": "The official name of the legislation is the *Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980*. According to the text, it was originally enacted in **1980**, as explicitly stated in the short title clause. The document also clarifies that the Act is retroactively deemed to have come into force on **December 1, 2023**, though its original enactment date remains 1980. This distinction highlights a procedural adjustment rather than a new law, as the core legislation itself was established three decades earlier.",
+"section": "s137"
+},
+{
+"id": "q-s140",
+"question": "What is the primary purpose of the Advisory Committee established under the Van Adhiniyam, 1980, and its associated rules?",
+"model": "The Advisory Committee is constituted to provide expert advice to the Central Government on two main fronts: first, it evaluates proposals requiring approval under **sub-section (1) of Section 2** (likely related to forest-related activities or permissions) as referred under **sub-rule (2) of Rule 10**; second, it addresses any matters pertaining to **forest conservation** that the Central Government may specifically refer to it. Its role is advisory, ensuring informed decision-making on critical forest-related issues before granting approvals or implementing conservation measures.",
+"section": "s140"
+},
+{
+"id": "q-s88",
+"question": "What is the primary purpose of Section 52B of the Indian Forest Act, 1927, and how does it restrict the jurisdiction of courts in confiscation proceedings?",
+"model": "Section 52B of the Indian Forest Act, 1927, establishes a legal bar to the jurisdiction of courts, tribunals, or authorities—except for the **Authorised Officer** and **Court of Sessions**—to handle orders related to the possession, delivery, disposal, or distribution of seized property during confiscation proceedings. This restriction applies once a Magistrate reports the initiation of confiscation proceedings under **Section 52(4)**. The provision ensures that only designated authorities (specifically those mentioned in Sections 52 and 52A) can oversee these proceedings, overriding any conflicting provisions in the Act or other laws. Additionally, the **Explanation** clarifies that if multiple courts share jurisdiction over forest offences, the receipt of such an intimation by *one* court automatically bars all other courts from intervening, preventing parallel or conflicting actions.",
+"section": "s88"
+},
+{
+"id": "q-s51",
+"question": "What is the primary purpose of Section 16 of the Indian Forest Act, 1927, and under what conditions does it apply?",
+"model": "Section 16 of the Indian Forest Act, 1927, outlines the process of **commutation of rights**, which occurs when the Forest Settlement Officer determines it is impractical to uphold existing rights (as admitted under Section 15) while still preserving the reserved forest. This provision applies specifically when the officer cannot ensure continued exercise of those rights without compromising forest conservation. The commutation allows affected individuals to either receive monetary compensation, alternative land grants, or other arrangements deemed suitable by the officer, all subject to rules established by the State Government.",
+"section": "s51"
+},
+{
+"id": "q-s159",
+"question": "What are the specific procedural requirements for serving a notice under clause (c) of Section 55 of the Wild Life (Protection) Act, 1972, and which form must be used?",
+"model": "The notice under clause (c) of Section 55 must be served in **Form 'A'** as prescribed in Rule 3 of the Act’s rules. The notice must be sent via **registered post** to designated authorities, including the **Director of Wild Life Preservation** in New Delhi and either the **Secretary of the State Government/Union Territory in charge of Wildlife**, the **Chief Wildlife Warden** of the concerned state, or an **authorised officer** of the state/UT. The form requires details such as the offender’s name and address, a description of the alleged offence, and evidence supporting the violation, as outlined in the provided template.",
+"section": "s159"
+},
+{
+"id": "q-s65",
+"question": "What is the legal process by which a state government can designate certain forest or waste lands as 'protected forests' under the Indian Forest Act, 1927?",
+"model": "Under Section 29(1) of the Indian Forest Act, 1927, a state government can declare forest or waste lands as protected forests by issuing a formal notification in the Official Gazette. This applies to lands that are either owned by the government, where the government holds proprietary rights, or where the government is entitled to the forest produce. The notification must specify the lands included, which are then officially designated as 'protected forests' for regulatory purposes.",
+"section": "s65"
+},
+{
+"id": "q-s64",
+"question": "What authority does the State Government have under Section 28(1) of the Indian Forest Act, 1927 regarding village-forests, and what happens if the assignment is later canceled?",
+"model": "Under Section 28(1) of the Indian Forest Act, 1927, the State Government has the power to assign rights over reserved forest land to a village-community, effectively converting it into a *village-forest*. This assignment grants the community legal control over the land, allowing them to manage and benefit from its resources. However, the State Government retains the discretion to *cancel* such an assignment at any time, reverting the land back to government control. The cancellation process is not detailed in the section, but it implies the State Government’s overriding authority to revoke community rights when necessary.",
+"section": "s64"
+},
+{
+"id": "q-s169",
+"question": "What authority is responsible for issuing licenses to cultivate specified plants under the Wild Life (Protection) Act, 1972, and what is the role of the State Government in this process?",
+"model": "Under **Section 17C** of the Wild Life (Protection) Act, 1972, the **Chief Wildlife Warden** or any other officer authorized by the **State Government** holds the authority to grant licenses for cultivating specified plants. The State Government’s role is to delegate this authority to specific officers, ensuring compliance with the law. The license must clearly outline the **area of cultivation** and any **conditions** the licensee must adhere to, as stipulated in subsection (2). This structure ensures regulated and monitored cultivation to prevent unauthorized or harmful farming of protected species.",
+"section": "s169"
+},
+{
+"id": "q-s160",
+"question": "What is the primary obligation of a licensee under the Wild Life (Protection) Act, 1972, Section 4, regarding the stocks of specified animals or their articles?",
+"model": "Under Section 4 of the Wild Life (Protection) Act, 1972, a licensee who has been granted permission to hold specified animals, animal articles, trophies, uncured trophies, or meat must submit a detailed report to the officer who issued the permission. This report must be filed in **Form III** within **30 days** of acquiring, receiving, or taking possession of these items. The purpose of this requirement is to ensure transparency and accountability over the controlled stocks. Failure to comply could potentially lead to further regulatory scrutiny or actions by the officer.",
+"section": "s160"
+},
+{
+"id": "q-s26",
+"question": "\": \"Wh",
+"model": "t is the primary role of the District Collector or Deputy Commissioner in the District Level Committee (DLC) under the Forest Rights Rules, 2008?\"\n    \"answer\": \"The District Collector or Deputy Commissioner serves as the Chairperson of the District Level Committee (DLC) under the Forest Rights Rules, 2008. This role is designated to ensure leadership and oversight in the committee’s functioning, as the Chairperson presides over meetings and decisions related to forest rights claims, grievances, and recommendations. Their position reflects the government’s emphasis on integrating administrative authority with the committee’s decision-making process. Additionally, their role likely involves coordinating with other members to ensure compliance with legal and procedural requirements. The Chairperson’s authority is pivotal in maintaining the committee’s alignment with state-level policies and forest conservation objectives.\"\n  },\n  {\n    \"question\": \"How does the Forest Rights Rules, 2008, ensure representation of Scheduled Tribes and traditional forest dwellers in the District Level Committee (DLC) for areas outside the Sixth Schedule?\"\n    \"answer\": \"The rules mandate that at least two of the three nominated district panchayat members must be Scheduled Tribes, preferably those who are forest dwellers or belong to primitive tribal groups. If Scheduled Tribes are absent, the rules allow two members to be traditional forest dwellers instead, ensuring their inclusion. Additionally, one of the three members must be a woman, promoting gender parity. This structure prioritizes local knowledge and rights-holder perspectives, aligning with the Act’s goal of recognizing and protecting indigenous communities’ land and resource claims. The nomination process reflects an effort to balance representation with the specific cultural and demographic realities of each district.\"\n  },\n  {\n    \"question\": \"What procedural safeguards are included in the Forest Rights Rules, 2008, to address potential gaps in tribal representation in the District Level Committee (DLC) for regions covered under the Sixth Schedule?\"\n    \"answer\": \"For areas under the Sixth Schedule, the rules specify that the three DLC members must be nominated by the Autonomous District Council or Regional Council, with at least one member designated as a woman. This approach accommodates the unique governance structures of these regions, where traditional councils hold authority over local affairs. By requiring nominations from these councils, the rules ensure that representation aligns with the local political and administrative framework, thereby safeguarding against exclusionary practices. The inclusion of a woman member also reinforces gender inclusivity within these committees, addressing potential disparities in decision-making. This tailored mechanism reflects the Act’s recognition of the distinct needs of Sixth Schedule areas while maintaining consistency with broader forest rights objectives.\"\n  }\n]\n```",
+"section": "s26"
+},
+{
+"id": "q-s207",
+"question": "What specific activities are prohibited under Section 44 of the Wild Life (Protection) Act, 1972 without obtaining a licence, and how does the Act define an 'eating-house' in this context?",
+"model": "Section 44 of the Wild Life (Protection) Act, 1972 prohibits individuals from engaging in several activities without a licence, including manufacturing or dealing in animal articles, acting as a taxidermist, trading in trophies (uncured or cured), captive animals, or meat, as well as cooking or serving meat in any establishment. The Act explicitly defines an 'eating-house' to encompass hotels, restaurants, or any place where edible items are served for payment, whether the charge is separate for the food or bundled with lodging or board. This broad definition ensures that all commercial food service providers must comply with licensing requirements if they handle protected animal products.",
+"section": "s207"
+},
+{
+"id": "q-s25",
+"question": "What are the primary responsibilities of the Sub-Divisional Level Committee (SDLC) in terms of informing and educating Gram Sabhas and forest dwellers about their rights and duties?",
+"model": "The Sub-Divisional Level Committee (SDLC) is tasked with providing detailed information to each Gram Sabha regarding their duties and the responsibilities of individuals holding forest rights. This includes educating them about the protection of wildlife, forests, and biodiversity, particularly highlighting critical flora and fauna that require conservation. Additionally, the SDLC must raise awareness among forest dwellers about the objectives and procedures outlined in the Forest Rights Act, 2006, and its associated rules. This ensures that communities are informed about their rights and the processes for claiming them, fostering transparency and participation in the decision-making process.",
+"section": "s25"
+},
+{
+"id": "q-s4",
+"question": "What specific legal provisions under the Environment (Protection) Act, 1986, mandate that industries must not exceed prescribed standards for environmental pollutant emissions, and where are these standards detailed?",
+"model": "The Environment (Protection) Act, 1986, explicitly prohibits industries from emitting or discharging environmental pollutants beyond prescribed standards under **Section 7**, which references **Rule 3 of the Environment (Protection) Rules, 1986** and **Schedule I** for enforcement. These standards include **General Standards for discharge of Environmental Pollutants** (GSR 422(E), 1993) and **National Ambient Air Quality Standards** (Schedule VII, inserted via GSR 176(E), 1996). The Act ensures compliance by legally binding industries to adhere to these thresholds, with violations subject to regulatory action under the Act’s broader pollution control framework.",
+"section": "s4"
+},
+{
+"id": "q-s134",
+"question": "What specific authority does the Central Government possess under Section 12 of the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006, and how is this power exercised?",
+"model": "Under Section 12 of the Act, the Central Government has the power to issue **general or special directions in writing** to any authority mentioned in **Chapter IV** of the legislation. These directions are meant to guide or oversee the performance of duties and the exercise of powers by these authorities *while implementing the Act*. The wording emphasizes that such directions are not merely advisory but binding, ensuring compliance with the Central Government’s policy or procedural requirements. Importantly, these directions can be issued **from time to time**, allowing for flexibility in adapting to evolving circumstances or challenges in forest rights recognition.",
+"section": "s134"
+},
+{
+"id": "q-s164",
+"question": "What are the key procedural steps a licensee must follow to legally transport a specified animal or related trophy within a single state under the Wild Life (Protection) Act, 1972?",
+"model": "According to Section 8 of the Wild Life (Protection) Act, 1972, a licensee must first submit an application for permission in **Form VI** to the designated officer. The officer then conducts an inquiry within **seven days** of receipt and may grant or refuse the permission based on whether the animal or trophy was **lawfully acquired**. If granted, the permission is issued in **Form VII**; if refused, the officer must record the reasons and communicate them to the applicant. No transport is permitted without explicit prior approval.",
+"section": "s164"
+},
+{
+"id": "q-s217",
+"question": "Under the Wild Life (Protection) Act, 1972, what legal consequence arises if someone *attempts* to violate any provision, rule, or order under the Act, even if they don’t fully succeed?",
+"model": "According to Section 52 of the Act, anyone who *attempts* to contravene any provision, rule, or order is legally treated as if they *have* already violated it. This means the attempt alone is sufficient to trigger liability, regardless of whether the full act was completed. The provision explicitly states that the attempt is deemed a contravention, ensuring deterrence without requiring proof of completed harm. This approach strengthens enforcement by penalizing preparatory actions that could lead to violations. The same logic applies to abetment—encouraging or assisting another person in violating the Act also constitutes a contravention under this section.",
+"section": "s217"
+}
+]
