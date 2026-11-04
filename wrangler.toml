@@ -1,0 +1,3 @@
+name = "uttar-jaanch"
+main = "worker.js"
+compatibility_date = "2026-11-01"
