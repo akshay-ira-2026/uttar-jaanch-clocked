@@ -1,0 +1,2 @@
+{ "name": "uttar-jaanch", "version": "1.0.0", "type": "module", "private": true,
+  "scripts": { "test": "node test.mjs", "serve": "python3 -m http.server 8000" } }
